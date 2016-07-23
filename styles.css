@@ -1,0 +1,70 @@
+body {
+	margin:0;
+}
+header {
+	padding:10px 30px;
+	width:100%;
+	color:#333;
+}
+
+h1 {
+	font-family: 'Grand Hotel', cursive;
+	font-size:3em;
+}
+
+article {
+	margin: 5px;
+	border: 2px solid black;
+}
+.article1 {
+	font-family: 'Cabin', sans-serif;
+	background-color: teal;
+	font-size: 1em;
+	color: #ccc;
+	line-height: 1;
+	padding:10px;
+	border-radius: 10%;
+}
+.article2 {
+	font-family: 'Slabo 27px', serif;
+	background-color: green;
+	font-size: 1.1em;
+	color: yellow;
+	line-height: 1.1;
+	padding:20px;
+	border-radius: 15%;
+}
+.article3 {
+	font-family: 'Questrial', sans-serif;
+	background-color: orange;
+	font-size: 1.2em;
+	color: white;
+	line-height: 1.2;
+	padding:30px;
+	border-radius: 20%;
+}
+.article4 {
+	font-family: 'Architects Daughter', cursive;
+	background-color: purple;
+	font-size: 1.3em;
+	color: pink;
+	line-height: 1.3;
+	padding:40px;
+	border-radius: 25%;
+}
+.article5 {
+	font-family: 'Shadows Into Light', cursive;
+	background-color: cyan;
+	font-size: 1.4em;
+	color: magenta;
+	line-height: 1.4;
+	padding:100px;
+	border-radius: 30%;
+}
+
+footer {
+	padding:10px 20px;
+	width:100%;
+	color:#333;
+	text-align:center;
+}
